@@ -53,3 +53,8 @@
 ![img 19](Screenshot/19.png)
 - Gambar 2
 ![img 20](Screenshot/20.png)
+## Pertanyaan dan Tugas
+- Gambar 1
+![img 21](Screenshot/21.png)
+_ Gambar 2
+![img 22](Screenshot/22.png)
